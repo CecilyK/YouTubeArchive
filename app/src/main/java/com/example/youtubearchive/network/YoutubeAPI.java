@@ -16,7 +16,7 @@ public class YoutubeAPI {
 
     public static final String BASE_URL = "https://www.googleapis.com/youtube/v3/";
     public static final String CHANNEL_ID = "UCmh5gdwCx6lN7gEC20leNVA";//enter the channel id here
-    public static final String KEY = "key=AIzaSyA4o2yCPPqPBnQ8FpadFLnJOhGtyLk5mBE";
+    public static final String KEY = "key="//enter API key here;
     public static final String sch = "search?";
     public static final String chid = "&channelId=" + CHANNEL_ID;
     public static final String mx = "&maxResults=10";
